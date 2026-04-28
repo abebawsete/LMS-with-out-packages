@@ -85,5 +85,8 @@ It uses a **menu-driven console interface** for user interaction.
 
 ### 1. Compile the program
 ```
-**Compile** javac MiniProject.java
-**RUN** java MiniProject.java
+---
+ 
+- javac MiniProject.java
+- java MiniProject.java
+
