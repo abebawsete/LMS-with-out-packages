@@ -1,4 +1,4 @@
-# 📚 Java Library Management System (Mini Project)
+# Java Library Management System - Mini Project
 
 ##  Project Overview
 This is a **console-based Library Management System** developed in Java using Object-Oriented Programming (OOP) concepts. The system allows users to manage books in a library, including both **Printed Books** and **E-Books**.
