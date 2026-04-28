@@ -83,7 +83,6 @@ It uses a **menu-driven console interface** for user interaction.
 
 ## How to Compile and Run the Project
 
-### 1. Compile the program
 ```
 - javac MiniProject.java
 - java MiniProject.java
